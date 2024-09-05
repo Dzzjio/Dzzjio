@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzjio&label=Profile%20views&color=0e75b6&style=flat" alt="dzzjio" /> </p>
 
-- 🔭 I’m currently working on [GNC](https://www.gnc.ge/)
-- 📫 **Please note:** Do not use the contact form on the website to send emails. Thank you for your understanding!
+- 🔭 I’m currently working on [Goodaura](https://notyet.tech/) project (Full Stack)
 
 - 📫 How to reach me **https://www.linkedin.com/in/gio-jioshvili-51b3b324a/**
 
