@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzjio&label=Profile%20views&color=0e75b6&style=flat" alt="dzzjio" /> </p>
 
 - 🔭 I’m currently working on Full stack [Goodaura](https://notyet.tech/) project (MERN stack)
-
-- 📫 How to reach me **https://www.linkedin.com/in/gio-jioshvili-51b3b324a/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gio-jioshvili-51b3b324a/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,7 +62,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  </a>
 </p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzzjio&" alt="dzzjio" /></p>
