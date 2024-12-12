@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzjio&label=Profile%20views&color=0e75b6&style=flat" alt="dzzjio" /> </p>
 
-- 🔭 I’m currently working on Full stack [Goodaura](https://notyet.tech/) project (MERN stack)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gio-jioshvili-51b3b324a/)
 
 <h3 align="left">Languages and Tools:</h3>
