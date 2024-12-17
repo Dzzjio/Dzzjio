@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi Jioshvili</h1>
 <h3 align="center">A passionate web developer from Tbilisi, Georgia.</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzzjio&theme=tokyonight&hide=html" alt="Top Langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzzjio&" alt="dzzjio"/>
 </div>
