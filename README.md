@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giorgi Jioshvili</h1>
-<h3 align="center">A passionate web developer from Tbilisi, Georgia.</h3>
+<h1 align="center">Hey, I'm Giorgi Jioshvili ･ ͜ʖ ･</h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzzjio&theme=tokyonight&hide=html" alt="Top Langs"/>
