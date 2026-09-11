@@ -1,70 +1,50 @@
-<h1 align="center">Hey, I'm Giorgi Jioshvili ･ ͜ʖ ･</h1>
+<h1 align="left">Giorgi Jioshvili</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzzjio&theme=tokyonight&hide=html" alt="Top Langs"/>
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzjio&label=Profile%20views&color=0e75b6&style=flat" alt="dzzjio" /> </p>
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gio-jioshvili-51b3b324a/)
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  </a>
+CS student at ČVUT FIT in Prague · building things with React, TypeScript, and the Anthropic API.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> ·
+  <a href="https://github.com/Dzzjio">GitHub</a>
+</p>
+
+---
+
+### About
+
+Second-year CS student at Czech Technical University (FIT), currently based in Prague. I like turning small, concrete problems into working apps — a network scanner, an expense tracker, a hiking guide for Georgia. Most of what's below started as a personal itch to fix or build something.
+
+Outside of code: sport climbing (top grade 6c+), cooking, and exploring Prague's restaurant scene.
+
+### What I'm building
+
+**[dzz-caucasus-geo](https://github.com/Dzzjio/dzz-caucasus-geo)** — an "ultimate hiking app," starting with trails in Georgia (the country). Working on route-completion tracking and a leaderboard for most hikes completed / fastest times.
+
+**[dzz-expenses](https://github.com/Dzzjio)** — a personal expense tracker with category breakdowns (donut charts), spending-over-time trends, and Excel export. React + Supabase, with row-level-security-scoped auth.
+
+**NetWatch** — a home network monitoring tool: a C++ scanner engine (ICMP ping, reverse DNS, MAC/vendor lookup, TCP port scanning) feeding a Python/Flask dashboard.
+
+**dzz-market-agent** — an AI market analyst on top of the Anthropic API (Claude), with tools for live crypto/stock prices and the Fear & Greed Index.
+
+**Matchstick Nim** — a browser-based strategy game (misère Nim), with local multiplayer and a bot opponent that plays the optimal XOR-based strategy.
+
+### Tech I use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+### GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dzzjio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzzjio&layout=compact&theme=tokyonight&hide_border=true&hide=html" height="165" />
 </p>
