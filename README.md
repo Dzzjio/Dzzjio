@@ -15,8 +15,6 @@ CS student at ČVUT FIT in Prague · building things with React, TypeScript, and
 
 Second-year CS student at Czech Technical University (FIT), currently based in Prague. I like turning small, concrete problems into working apps — a network scanner, an expense tracker, a hiking guide for Georgia. Most of what's below started as a personal itch to fix or build something.
 
-Outside of code: sport climbing (top grade 6c+), cooking, and exploring Prague's restaurant scene.
-
 ### What I'm building
 
 **[dzz-caucasus-geo](https://github.com/Dzzjio/dzz-caucasus-geo)** — an "ultimate hiking app," starting with trails in Georgia (the country). Working on route-completion tracking and a leaderboard for most hikes completed / fastest times.
