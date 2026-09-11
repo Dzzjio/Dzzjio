@@ -1,8 +1,7 @@
 <h1 align="left">Giorgi Jioshvili</h1> 
 <p align="left"> CS student at ČVUT FIT in Prague · building things with React, TypeScript, and the Anthropic API. </p> 
-<p align="left"> <a href="https://giorgijioshvili.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> ·
----
-
+<p align="left"> <a href="https://giorgijioshvili.vercel.app/">Portfolio</a> · <a href="[https://www.linkedin.com/in/gio-jioshvili-51b3b324a](https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/)/">LinkedIn</a>.
+  
 ### About
 
 Second-year CS student at Czech Technical University (FIT), currently based in Prague. I like turning small, concrete problems into working apps — a network scanner, an expense tracker, a hiking guide for Georgia. Most of what's below started as a personal itch to fix or build something.
