@@ -1,8 +1,7 @@
-<h1 align="left">Giorgi Jioshvili</h1>
+<h1 align="left">Giorgi Jioshvili</h1> 
+<p align="left"> CS student at ČVUT FIT in Prague · building things with React, TypeScript, and the Anthropic API. </p> 
+<p align="left"> <a href="https://giorgijioshvili.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> · <a href="https://github.com/Dzzjio">GitHub</a> </p>
 
-<p align="left">
-CS student at ČVUT FIT in Prague · building things with React, TypeScript, and the Anthropic API.
-</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> ·
@@ -40,9 +39,3 @@ Second-year CS student at Czech Technical University (FIT), currently based in P
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzzjio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzzjio&layout=compact&theme=tokyonight&hide_border=true&hide=html" height="165" />
-</p>
