@@ -1,13 +1,6 @@
 <h1 align="left">Giorgi Jioshvili</h1> 
 <p align="left"> CS student at ČVUT FIT in Prague · building things with React, TypeScript, and the Anthropic API. </p> 
-<p align="left"> <a href="https://giorgijioshvili.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> · <a href="https://github.com/Dzzjio">GitHub</a> </p>
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> ·
-  <a href="https://github.com/Dzzjio">GitHub</a>
-</p>
-
+<p align="left"> <a href="https://giorgijioshvili.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/gio-jioshvili-51b3b324a/">LinkedIn</a> ·
 ---
 
 ### About
