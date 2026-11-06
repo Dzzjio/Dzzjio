@@ -25,22 +25,27 @@
 ---
 
 ```
-┌──(giorgi㉿fit-cvut)-[~]
-└─$ whoami
-giorgi jioshvili :: cyber security student @ ČVUT FIT
-
-┌──(giorgi㉿fit-cvut)-[~]
-└─$ cat about.txt
-[+] location   : Prague, CZ  (from Georgia 🇬🇪)
-[+] studying   : Cyber Security @ Czech Technical University
-[+] languages  : Georgian · English · Russian · Czech
-[+] off-screen : climbing · trail running · hiking
-
-┌──(giorgi㉿fit-cvut)-[~]
-└─$ cat contact.txt
-[>] portfolio  : giorgijioshvili.vercel.app
-[>] linkedin   : linkedin.com/in/giorgi-jioshvili-51b3b324a
-[>] github     : github.com/Dzzjio
+┌────────────────────────────────────────────────────────────────────┐
+│ ● ● ●                   giorgi@fit-cvut: ~                         │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│      ▄██████▄         giorgi@fit-cvut                              │
+│     ██▀    ▀██        ───────────────                              │
+│     ██      ██        name      »  Giorgi Jioshvili                │
+│   ▄████████████▄      role      »  Cyber Security student          │
+│   █████▀  ▀█████      uni       »  ČVUT FIT                        │
+│   █████▄  ▄█████      location  »  Prague, CZ                      │
+│   ██████  ██████      origin    »  Georgia                         │
+│   ▀████████████▀      langs     »  KA · EN                         │
+│                       offline   »  climbing · running · hiking     │
+│                                                                    │
+│                       portfolio »  giorgijioshvili.vercel.app      │
+│                       linkedin  »  in/giorgi-jioshvili-51b3b324a   │
+│                       github    »  @Dzzjio                         │
+│                                                                    │
+│                       ░░░ ▒▒▒ ▓▓▓ ███ ▓▓▓ ▒▒▒ ░░░                  │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
