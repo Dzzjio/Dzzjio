@@ -37,6 +37,4 @@
 
 <a href="https://giorgijioshvili.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-%E2%9D%AF%20visit-ffffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/"><img src="https://img.shields.io/badge/LINKEDIN-%E2%9D%AF%20connect-ffffff?style=for-the-badge&labelColor=000000" alt="LinkedIn"></a>
-="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
-
 </div>
