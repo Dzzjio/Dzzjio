@@ -1,60 +1,45 @@
 <div align="center">
 
 ```
- ██████╗ ██╗ ██████╗ ██████╗  ██████╗ ██╗
-██╔════╝ ██║██╔═══██╗██╔══██╗██╔════╝ ██║
-██║  ███╗██║██║   ██║██████╔╝██║  ███╗██║
-██║   ██║██║██║   ██║██╔══██╗██║   ██║██║
-╚██████╔╝██║╚██████╔╝██║  ██║╚██████╔╝██║
- ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝
+                /$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$$   /$$$$$$  /$$$$$$
+               /$$__  $$|_  $$_/ /$$__  $$| $$__  $$ /$$__  $$|_  $$_/
+              | $$  \__/  | $$  | $$  \ $$| $$  \ $$| $$  \__/  | $$
+              | $$ /$$$$  | $$  | $$  | $$| $$$$$$$/| $$ /$$$$  | $$
+              | $$|_  $$  | $$  | $$  | $$| $$__  $$| $$|_  $$  | $$
+              | $$  \ $$  | $$  | $$  | $$| $$  \ $$| $$  \ $$  | $$
+              |  $$$$$$/ /$$$$$$|  $$$$$$/| $$  | $$|  $$$$$$/ /$$$$$$
+               \______/ |______/ \______/ |__/  |__/ \______/ |______/
 
-     ██╗██╗ ██████╗ ███████╗██╗  ██╗██╗   ██╗██╗██╗     ██╗
-     ██║██║██╔═══██╗██╔════╝██║  ██║██║   ██║██║██║     ██║
-     ██║██║██║   ██║███████╗███████║██║   ██║██║██║     ██║
-██   ██║██║██║   ██║╚════██║██╔══██║╚██╗ ██╔╝██║██║     ██║
-╚█████╔╝██║╚██████╔╝███████║██║  ██║ ╚████╔╝ ██║███████╗██║
- ╚════╝ ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝
+    /$$$$$ /$$$$$$  /$$$$$$   /$$$$$$  /$$   /$$ /$$    /$$ /$$$$$$ /$$       /$$$$$$
+   |__  $$|_  $$_/ /$$__  $$ /$$__  $$| $$  | $$| $$   | $$|_  $$_/| $$      |_  $$_/
+      | $$  | $$  | $$  \ $$| $$  \__/| $$  | $$| $$   | $$  | $$  | $$        | $$
+      | $$  | $$  | $$  | $$|  $$$$$$ | $$$$$$$$|  $$ / $$/  | $$  | $$        | $$
+ /$$  | $$  | $$  | $$  | $$ \____  $$| $$__  $$ \  $$ $$/   | $$  | $$        | $$
+| $$  | $$  | $$  | $$  | $$ /$$  \ $$| $$  | $$  \  $$$/    | $$  | $$        | $$
+|  $$$$$$/ /$$$$$$|  $$$$$$/|  $$$$$$/| $$  | $$   \  $/    /$$$$$$| $$$$$$$$ /$$$$$$
+ \______/ |______/ \______/  \______/ |__/  |__/    \_/    |______/|________/|______/
 
- ░▒▓█  C Y B E R   S E C U R I T Y   ·   Č V U T   F I T   ·   P R A G U E  █▓▒░
+@#$%&*+  C Y B E R   S E C U R I T Y   ·   Č V U T   F I T   ·   P R A G U E  +*&%$#@
+
+               .-@@@@@@-.        giorgi@fit-cvut:~$ ./whoami
+              /@/      \@\
+              |@|      |@|       name       ::  Giorgi Jioshvili
+            .-@@@@@@@@@@@@-.     role       ::  Cyber Security student
+            |$$$$$$$$$$$$$$|     uni        ::  ČVUT FIT, Prague
+            |$$$$$/  \$$$$$|     origin     ::  Georgia
+            |$$$$$\  /$$$$$|     langs      ::  KA · EN
+            |$$$$$$||$$$$$$|     offline    ::  climbing · running · hiking
+            |$$$$$$||$$$$$$|     github     ::  @Dzzjio
+            '-@@@@@@@@@@@@-'     portfolio  ::  giorgijioshvili.vercel.app
+
+@#$%&*+=-:. . . . . . . . . . . . . .  [ EOF ]  . . . . . . . . . . . . . .:-=+*&%$#@
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+initializing+profile...;%3E+access+granted+%E2%9C%94;%3E+securing+systems+layer+by+layer;%3E+student+%40+%C4%8CVUT+FIT+Prague" alt="Typing SVG" />
+<a href="https://giorgijioshvili.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-%E2%9D%AF%20visit-ffffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/"><img src="https://img.shields.io/badge/LINKEDIN-%E2%9D%AF%20connect-ffffff?style=for-the-badge&labelColor=000000" alt="LinkedIn"></a>
 
-</div>
+<br><br>
 
----
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│ ● ● ●                   giorgi@fit-cvut: ~                         │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│      ▄██████▄         giorgi@fit-cvut                              │
-│     ██▀    ▀██        ───────────────                              │
-│     ██      ██        name      »  Giorgi Jioshvili                │
-│   ▄████████████▄      role      »  Cyber Security student          │
-│   █████▀  ▀█████      uni       »  ČVUT FIT                        │
-│   █████▄  ▄█████      location  »  Prague, CZ                      │
-│   ██████  ██████      origin    »  Georgia                         │
-│   ▀████████████▀      langs     »  KA · EN                         │
-│                       offline   »  climbing · running · hiking     │
-│                                                                    │
-│                       portfolio »  giorgijioshvili.vercel.app      │
-│                       linkedin  »  in/giorgi-jioshvili-51b3b324a   │
-│                       github    »  @Dzzjio                         │
-│                                                                    │
-│                       ░░░ ▒▒▒ ▓▓▓ ███ ▓▓▓ ▒▒▒ ░░░                  │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://giorgijioshvili.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
 
 </div>
