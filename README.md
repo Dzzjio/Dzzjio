@@ -41,9 +41,6 @@ giorgi jioshvili :: cyber security student @ ČVUT FIT
 [>] portfolio  : giorgijioshvili.vercel.app
 [>] linkedin   : linkedin.com/in/giorgi-jioshvili-51b3b324a
 [>] github     : github.com/Dzzjio
-
-┌──(giorgi㉿fit-cvut)-[~]
-└─$ _
 ```
 
 <div align="center">
@@ -54,10 +51,5 @@ giorgi jioshvili :: cyber security student @ ČVUT FIT
 <a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%">
-
 
 </div>
