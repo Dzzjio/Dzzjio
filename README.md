@@ -33,11 +33,8 @@
 
 @#%&*+=;:"'.,.'":;\|/-=-=-=-=-=-=-=-=  [ EOF ]  -=-=-=-=-=-=-=-=-\|/;:"'.,.'":;=+*&%#@
 ```
-
-<div align="center">
 <pre>
               <a href="https://giorgijioshvili.vercel.app/">.-=-=-=-=-=-=-=-=-=-=-=-=-.</a>    <a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/">.-=-=-=-=-=-=-=-=-=-=-=-=-.</a>
               <a href="https://giorgijioshvili.vercel.app/">|:;  PORTFOLIO &gt; visit  ;:|</a>    <a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/">|:; LINKEDIN &gt; connect  ;:|</a>
               <a href="https://giorgijioshvili.vercel.app/">'-=-=-=-=-=-=-=-=-=-=-=-=-'</a>    <a href="https://www.linkedin.com/in/giorgi-jioshvili-51b3b324a/">'-=-=-=-=-=-=-=-=-=-=-=-=-'</a>
 </pre>
-</div>
